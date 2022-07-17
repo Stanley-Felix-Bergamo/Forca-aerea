@@ -1,0 +1,363 @@
+.Cabecalho {
+    position: relative;
+    background-color: rgba(247, 247, 247, 0.466);
+    padding: 3px;
+    border-radius: 100px;
+}
+
+.logo {
+    width: 250px;
+    cursor: pointer;
+}
+
+.Container {
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.473);
+    margin: auto;
+    width: 80%;
+    height: 5280px;
+    border-radius: 18px;
+    top: 55px;
+}
+
+
+.Conteudo {
+    text-align: center;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    width: 90%;
+    height: 5200px;
+    top: 1%;
+    left: 5%;
+    border-radius: 18px;
+}
+
+
+.btn {
+    position: absolute;
+    text-align: center;
+    padding: 4%;
+    left: 70%;
+}
+
+.ops {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    margin: 8px;
+    font-family: 'Readex Pro',
+        sans-serif;
+}
+
+
+.ops:hover {
+    color: rgba(0, 0, 0, 0.212);
+
+}
+
+.ops:active {
+    color: rgb(255, 255, 255);
+
+}
+
+
+.Douglas {
+    top: 2%;
+    position: absolute;
+    width: 490px;
+    height: 250px;
+    border-radius: 30px;
+    left: 4%;
+}
+
+.Douglas1 {
+    top: 8%;
+    position: absolute;
+    width: 480px;
+    height: 270px;
+    border-radius: 30px;
+    left: 54%;
+}
+
+.Douglas2 {
+    top: 16%;
+    position: absolute;
+    width: 480px;
+    height: 270px;
+    border-radius: 30px;
+    left: 2%;
+}
+
+.Douglas3 {
+    top: 22%;
+    position: absolute;
+    width: 480px;
+    height: 270px;
+    border-radius: 30px;
+    left: 54%;
+}
+
+.Douglas4 {
+    top: 28%;
+    position: absolute;
+    width: 480px;
+    height: 270px;
+    border-radius: 30px;
+    left: 2%;
+}
+
+.Douglas5 {
+    top: 350px;
+    position: absolute;
+    width: 480px;
+    height: 270px;
+    border-radius: 30px;
+    left: 77px;
+}
+
+.Douglas6 {
+    top: 2099px;
+    position: absolute;
+    width: 480px;
+    height: 270px;
+    border-radius: 30px;
+    left: 20px;
+}
+
+.Douglas7 {
+    top: 2390px;
+    position: absolute;
+    width: 480px;
+    height: 270px;
+    border-radius: 30px;
+    left: 580px;
+}
+
+.Douglas8 {
+    top: 3299px;
+    position: absolute;
+    width: 480px;
+    height: 270px;
+    border-radius: 30px;
+    left: 25px;
+}
+
+.Douglas9 {
+    top: 3299px;
+    position: absolute;
+    width: 480px;
+    height: 270px;
+    border-radius: 30px;
+    left: 580px;
+}
+
+
+.Douglas10 {
+    top: 3600px;
+    position: absolute;
+    width: 480px;
+    height: 270px;
+    border-radius: 30px;
+    left: 25px;
+}
+
+
+.Douglas11 {
+    top: 3600px;
+    position: absolute;
+    width: 480px;
+    height: 270px;
+    border-radius: 30px;
+    left: 580px;
+}
+
+.Douglas12 {
+    top: 3890px;
+    position: absolute;
+    width: 480px;
+    height: 270px;
+    border-radius: 30px;
+    left: 25px;
+}
+
+.Douglas13 {
+    top: 3890px;
+    position: absolute;
+    width: 480px;
+    height: 270px;
+    border-radius: 30px;
+    left: 580px;
+}
+
+.dd {
+    top: 4250px;
+    position: absolute;
+    width: 780px;
+    height: 370px;
+    border-radius: 30px;
+    left: 130px;
+}
+
+.Text {
+    position: absolute;
+    text-align: left;
+    left: 51%;
+    top: 77px;
+}
+
+.Text1 {
+    position: absolute;
+    text-align: left;
+    left: 48%;
+    top: 16%;
+}
+
+.Text2 {
+    position: absolute;
+    text-align: right;
+    left: 1%;
+    top: 1120px;
+}
+
+.Text3 {
+    position: absolute;
+    text-align: left;
+    left: 47%;
+    top: 1430px;
+}
+
+.Text4 {
+    position: absolute;
+    text-align: right;
+    left: 1%;
+    top: 1780px;
+}
+
+.Text5 {
+    position: absolute;
+    text-align: left;
+    left: 47%;
+    top: 2080px;
+}
+
+.Text6 {
+    position: absolute;
+    text-align: justify;
+    left: 2%;
+    top: 2385px;
+}
+
+.Text7 {
+    position: absolute;
+    text-align: left;
+    left: 2%;
+    top: 2750px;
+}
+
+.Text8 {
+    position: absolute;
+    text-align: left;
+    left: 2%;
+    top: 2850px;
+}
+
+.Text9 {
+    position: absolute;
+    text-align: left;
+    left: 2%;
+    top: 2930px;
+}
+
+.Text10 {
+    position: absolute;
+    text-align: left;
+    left: 2%;
+    top: 3080px;
+}
+
+.ta {
+    position: absolute;
+    top: 9%;
+    left: 10%;
+}
+
+.table,
+th,
+td {
+    border: 2px solid black;
+    height: 30px;
+    width: 200px;
+}
+
+
+.subTitulo {
+    background-color: rgba(129, 128, 128, 0.459);
+    position: absolute;
+    top: 14%;
+    width: 100%;
+    font-size: 24px;
+}
+
+.subTitulo2 {
+    background-color: rgba(129, 128, 128, 0.459);
+    position: absolute;
+    top: 62%;
+    width: 100%;
+    font-size: 24px;
+}
+
+.subTitulo3 {
+    background-color: rgba(129, 128, 128, 0.459);
+    position: absolute;
+    top: 90%;
+    width: 100%;
+    font-size: 24px;
+}
+
+.link {
+    position: absolute;
+    top: 92%;
+    left: 1%;
+}
+
+.link2 {
+    position: absolute;
+    top: 93%;
+    left: 1%;
+}
+
+.link3 {
+    position: absolute;
+    top: 94%;
+    left: 1%;
+}
+
+.link4 {
+    position: absolute;
+    top: 95%;
+    left: 1%;
+}
+
+.link5 {
+    position: absolute;
+    top: 96%;
+    left: 1%;
+}
+
+.link6 {
+    position: absolute;
+    top: 97%;
+    left: 1%;
+}
+
+.link7 {
+    position: absolute;
+    top: 98%;
+    left: 1%;
+}
+
+.link8 {
+    position: absolute;
+    top: 99%;
+    left: 1%;
+}

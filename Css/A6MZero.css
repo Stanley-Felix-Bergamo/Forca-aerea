@@ -1,0 +1,354 @@
+.Cabecalho {
+    position: relative;
+    background-color: rgba(247, 247, 247, 0.466);
+    padding: 3px;
+    border-radius: 100px;
+}
+
+.logo {
+    width: 250px;
+    cursor: pointer;
+}
+
+.Container {
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.473);
+    margin: auto;
+    width: 80%;
+    height: 5280px;
+    border-radius: 18px;
+    top: 55px;
+}
+
+
+.Conteudo {
+    text-align: center;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    width: 90%;
+    height: 5200px;
+    top: 1%;
+    left: 5%;
+    border-radius: 18px;
+}
+
+
+.btn {
+    position: absolute;
+    text-align: center;
+    padding: 4%;
+    left: 70%;
+}
+
+.ops {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    margin: 8px;
+    font-family: 'Readex Pro',
+        sans-serif;
+}
+
+
+.ops:hover {
+    color: rgba(0, 0, 0, 0.212);
+
+}
+
+.ops:active {
+    color: rgb(255, 255, 255);
+
+}
+
+
+.text1 {
+    position: absolute;
+    text-align: justify;
+    left: 47%;
+
+}
+
+.text2 {
+    position: absolute;
+    top: 9%;
+    left: 10%;
+}
+
+.text3 {
+    position: absolute;
+    text-align: left;
+    top: 17%;
+    left: 44%;
+}
+
+.text4 {
+    position: absolute;
+    text-align: right;
+    top: 24%;
+    left: 30px;
+}
+
+.text5 {
+    position: absolute;
+    text-align: left;
+    top: 1570px;
+    left: 52%;
+}
+
+.text6 {
+    position: absolute;
+    text-align: right;
+    top: 36%;
+    left: 1%;
+}
+
+.text7 {
+    position: absolute;
+    text-align: left;
+    top: 43%;
+    left: 50%;
+}
+
+.text8 {
+    position: absolute;
+    text-align: left;
+    top: 51%;
+    left: 35px;
+}
+
+.text9 {
+    position: absolute;
+    text-align: left;
+    top: 2730px;
+    left: 35px;
+}
+
+.text10 {
+    position: absolute;
+    text-align: left;
+    top: 2780px;
+    left: 35px;
+}
+
+.text11 {
+    position: absolute;
+    text-align: left;
+    top: 2870px;
+    left: 35px;
+}
+
+.text12 {
+    position: absolute;
+    text-align: left;
+    top: 2990px;
+    left: 35px;
+}
+
+.text13 {
+    position: absolute;
+    text-align: left;
+    top: 3140px;
+    left: 35px;
+}
+
+.text14 {
+    background-color: rgba(129, 128, 128, 0.459);
+    position: absolute;
+    width: 100%;
+    top: 3300px;
+}
+
+.text15 {
+    background-color: rgba(129, 128, 128, 0.459);
+    position: absolute;
+    width: 100%;
+    top: 4990px;
+}
+
+.text16 {
+    position: absolute;
+    top: 5050px;
+}
+
+.text17 {
+    position: absolute;
+    top: 5090px;
+}
+
+.text18 {
+    position: absolute;
+    top: 5130px;
+}
+
+.text19 {
+    position: absolute;
+    top: 5170px;
+}
+
+.zero1 {
+    position: absolute;
+    width: 440px;
+    border-radius: 30px;
+    left: 30px;
+}
+
+
+.zero2 {
+    position: absolute;
+    width: 440px;
+    border-radius: 30px;
+    left: 25px;
+    top: 18%;
+}
+
+.zero3 {
+    position: absolute;
+    width: 440px;
+    border-radius: 30px;
+    left: 54%;
+    top: 8%;
+}
+
+.zero4 {
+    position: absolute;
+    width: 440px;
+    border-radius: 30px;
+    left: 58%;
+    top: 24%;
+}
+
+.zero5 {
+    position: absolute;
+    width: 500px;
+    height: 295px;
+    border-radius: 30px;
+    left: 4%;
+    top: 30%;
+}
+
+.zero7 {
+    position: absolute;
+    width: 500px;
+    height: 295px;
+    border-radius: 30px;
+    left: 51%;
+    top: 36%;
+}
+
+.zero6 {
+    position: absolute;
+    width: 500px;
+    height: 295px;
+    border-radius: 30px;
+    top: 44%;
+    left: 10px;
+}
+
+.zeroo1 {
+    position: absolute;
+    border-radius: 30px;
+    top: 65%;
+
+    width: 500px;
+    height: 295px;
+    border-radius: 30px;
+    left: 5%;
+}
+
+.zeroo2 {
+    position: absolute;
+    border-radius: 30px;
+    top: 65%;
+
+    width: 500px;
+    height: 295px;
+    border-radius: 30px;
+    left: 53%;
+}
+
+
+.zeroo3 {
+    position: absolute;
+    border-radius: 30px;
+    top: 71%;
+
+    width: 500px;
+    height: 295px;
+    border-radius: 30px;
+    left: 5%;
+}
+
+.zeroo4 {
+    position: absolute;
+    border-radius: 30px;
+    top: 71%;
+
+    width: 500px;
+    height: 295px;
+    border-radius: 30px;
+    left: 53%;
+}
+
+.zeroo5 {
+    position: absolute;
+    border-radius: 30px;
+    top: 77%;
+    width: 500px;
+    height: 295px;
+    border-radius: 30px;
+    left: 53%;
+}
+
+.zeroo6 {
+    position: absolute;
+    border-radius: 30px;
+    top: 77%;
+
+    width: 500px;
+    height: 295px;
+    border-radius: 30px;
+    left: 5%;
+}
+
+.zeroo7 {
+    position: absolute;
+    border-radius: 30px;
+    top: 83%;
+    width: 500px;
+    height: 295px;
+    border-radius: 30px;
+    left: 5%;
+}
+
+.zeroo8 {
+    position: absolute;
+    border-radius: 30px;
+    top: 83%;
+
+    width: 500px;
+    height: 295px;
+    border-radius: 30px;
+    left: 53%;
+}
+
+.vid {
+    left: 25%;
+    border-radius: 30px;
+    top: 89%;
+    position: absolute;
+}
+
+.table,
+th,
+td {
+    border: 2px solid black;
+    height: 30px;
+    width: 200px;
+}
+
+.subTitulo2 {
+    background-color: rgba(129, 128, 128, 0.459);
+    position: absolute;
+    top: 15%;
+    width: 100%;
+}

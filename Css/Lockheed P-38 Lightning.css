@@ -1,0 +1,244 @@
+.Cabecalho {
+    position: relative;
+    background-color: rgba(247, 247, 247, 0.466);
+    padding: 3px;
+    border-radius: 100px;
+}
+
+.logo {
+    width: 250px;
+    cursor: pointer;
+}
+
+.Container {
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.473);
+    margin: auto;
+    width: 80%;
+    height: 5280px;
+    border-radius: 18px;
+    top: 55px;
+}
+
+
+.Conteudo {
+    text-align: center;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    width: 90%;
+    height: 5200px;
+    top: 1%;
+    left: 5%;
+    border-radius: 18px;
+}
+
+
+.btn {
+    position: absolute;
+    text-align: center;
+    padding: 4%;
+    left: 70%;
+}
+
+.ops {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    margin: 8px;
+    font-family: 'Readex Pro',
+        sans-serif;
+}
+
+
+.ops:hover {
+    color: rgba(0, 0, 0, 0.212);
+
+}
+
+.ops:active {
+    color: rgb(255, 255, 255);
+
+}
+
+.table,
+th,
+td {
+    border: 2px solid black;
+    height: 30px;
+    width: 200px;
+}
+
+.TABELA {
+    position: absolute;
+    top: 9%;
+    left: 10%;
+}
+
+.P38_Lightning {
+    position: absolute;
+    width: 440px;
+    border-radius: 30px;
+    left: 30px;
+}
+
+.l1 {
+    position: absolute;
+    top: 8%;
+    width: 440px;
+    border-radius: 30px;
+    left: 57%;
+}
+
+.l2 {
+    position: absolute;
+    top: 18%;
+    width: 440px;
+    border-radius: 30px;
+    left: 6%;
+}
+
+.l3 {
+    position: absolute;
+    top: 24%;
+    width: 440px;
+    border-radius: 30px;
+    left: 57%;
+}
+
+.l4 {
+    position: absolute;
+    top: 1520px;
+    width: 440px;
+    border-radius: 30px;
+    left: 5%;
+}
+
+.l5 {
+    position: absolute;
+    top: 1890px;
+    width: 440px;
+    border-radius: 30px;
+    left: 55%;
+}
+
+.ll1 {
+    position: absolute;
+    top: 79%;
+    width: 440px;
+    border-radius: 30px;
+    left: 55%;
+}
+
+.ll2 {
+    position: absolute;
+    top: 79%;
+    width: 440px;
+    border-radius: 30px;
+    left: 5%;
+}
+
+.ll3 {
+    position: absolute;
+    top: 85%;
+    width: 440px;
+    border-radius: 30px;
+    left: 55%;
+}
+
+.ll4 {
+    position: absolute;
+    top: 85%;
+    width: 440px;
+    border-radius: 30px;
+    left: 5%;
+}
+
+.text {
+    position: absolute;
+    text-align: left;
+    left: 45%;
+}
+
+.text2 {
+    position: absolute;
+    text-align: left;
+    left: 48%;
+    top: 18%;
+}
+
+.text3 {
+    position: absolute;
+    text-align: right;
+    left: 4%;
+    top: 24%;
+}
+
+.text4 {
+    position: absolute;
+    text-align: left;
+    left: 47%;
+    top: 29%;
+}
+
+.text5 {
+    position: absolute;
+    text-align: left;
+    left: 4%;
+    top: 36%;
+}
+
+.text6 {
+    position: absolute;
+    text-align: left;
+    left: 4%;
+    top: 44%;
+}
+
+.text7 {
+    position: absolute;
+    text-align: left;
+    left: 4%;
+    top: 53%;
+}
+
+.text8 {
+    position: absolute;
+    text-align: left;
+    left: 4%;
+    top: 60%;
+}
+
+.text9 {
+    position: absolute;
+    text-align: left;
+    left: 4%;
+    top: 69%;
+}
+
+.subTitulo {
+    background-color: rgba(129, 128, 128, 0.459);
+    position: absolute;
+    top: 16%;
+    width: 100%;
+    font-size: 24px;
+    text-align: center;
+}
+
+.subTitulo2 {
+    background-color: rgba(129, 128, 128, 0.459);
+    position: absolute;
+    top: 77%;
+    width: 100%;
+    font-size: 24px;
+    text-align: center;
+}
+
+
+.vid {
+    position: absolute;
+    width: 780px;
+    height: 370px;
+    border-radius: 30px;
+    left: 14%;
+    top: 91%;
+}

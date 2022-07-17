@@ -1,0 +1,292 @@
+.Cabecalho {
+    position: relative;
+    background-color: rgba(247, 247, 247, 0.466);
+    padding: 3px;
+    border-radius: 100px;
+}
+
+.logo {
+    width: 250px;
+    cursor: pointer;
+}
+
+.Container {
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.473);
+    margin: auto;
+    width: 80%;
+    height: 5280px;
+    border-radius: 18px;
+    top: 55px;
+}
+
+
+.Conteudo {
+    text-align: center;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    width: 90%;
+    height: 5200px;
+    top: 1%;
+    left: 5%;
+    border-radius: 18px;
+}
+
+
+.btn {
+    position: absolute;
+    text-align: center;
+    padding: 4%;
+    left: 70%;
+}
+
+.ops {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    margin: 8px;
+    font-family: 'Readex Pro',
+        sans-serif;
+}
+
+
+.ops:hover {
+    color: rgba(0, 0, 0, 0.212);
+
+}
+
+.ops:active {
+    color: rgb(255, 255, 255);
+
+}
+
+.subTitulo {
+    background-color: rgba(129, 128, 128, 0.459);
+    position: absolute;
+    top: 16%;
+    width: 100%;
+    font-size: 24px;
+    text-align: center;
+}
+
+.subTitulo2 {
+    background-color: rgba(129, 128, 128, 0.459);
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 3300px;
+}
+
+.subTitulo3 {
+    text-align: center;
+    position: absolute;
+    top: 91%;
+    background-color: rgba(129, 128, 128, 0.459);
+    width: 100%;
+}
+
+
+.GrummanF4F {
+    position: absolute;
+    width: 340px;
+    border-radius: 30px;
+    left: 30px;
+}
+
+.GrummanF4-1 {
+    position: absolute;
+    width: 440px;
+    border-radius: 30px;
+    left: 56%;
+    top: 9%;
+}
+
+.GrummanF4-2 {
+    position: absolute;
+    width: 440px;
+    border-radius: 30px;
+    left: 6%;
+    top: 950px;
+}
+
+.GrummanF4-3 {
+    position: absolute;
+    width: 440px;
+    border-radius: 30px;
+    left: 57%;
+    top: 1270px;
+}
+
+.GrummanF4-4 {
+    position: absolute;
+    width: 440px;
+    border-radius: 30px;
+    left: 7%;
+    top: 1550px;
+}
+
+.GrummanF4-5 {
+    position: absolute;
+    width: 440px;
+    border-radius: 30px;
+    left: 57%;
+    top: 1840px;
+}
+
+.GrummanF4-6 {
+    position: absolute;
+    width: 440px;
+    border-radius: 30px;
+    left: 7%;
+    top: 2130px;
+}
+
+.f4-7 {
+    position: absolute;
+    width: 440px;
+    border-radius: 30px;
+    left: 7%;
+    top: 64%;
+}
+
+.f4-8 {
+    position: absolute;
+    width: 440px;
+    border-radius: 30px;
+    left: 56%;
+    top: 64%;
+}
+
+.f4-9 {
+    position: absolute;
+    width: 440px;
+    border-radius: 30px;
+    left: 7%;
+    top: 70%;
+}
+
+.f4-10 {
+    position: absolute;
+    width: 440px;
+    border-radius: 30px;
+    left: 56%;
+    top: 70%;
+}
+
+.f4-11 {
+    position: absolute;
+    width: 440px;
+    border-radius: 30px;
+    left: 7%;
+    top: 76%;
+}
+
+.f4-12 {
+    position: absolute;
+    width: 440px;
+    border-radius: 30px;
+    left: 56%;
+    top: 76%;
+}
+
+.vid {
+    position: absolute;
+    width: 780px;
+    height: 370px;
+    border-radius: 30px;
+    left: 20%;
+    top: 83%;
+}
+
+.text {
+    position: absolute;
+    text-align: left;
+    left: 35%;
+
+}
+
+.text2 {
+    position: absolute;
+    text-align: left;
+    left: 44%;
+    top: 929px;
+
+}
+
+.text3 {
+    position: absolute;
+    text-align: right;
+    left: 8%;
+    top: 1250px;
+
+}
+
+.text4 {
+    position: absolute;
+    text-align: left;
+    left: 45%;
+    top: 1550px;
+
+}
+
+.text5 {
+    position: absolute;
+    text-align: right;
+    left: 8%;
+    top: 1840px;
+
+}
+
+.text6 {
+    position: absolute;
+    text-align: left;
+    left: 45%;
+    top: 2120px;
+
+}
+
+.text7 {
+    position: absolute;
+    text-align: justify;
+    left: 7%;
+    top: 2420px;
+
+}
+
+.TABELA {
+    position: absolute;
+    top: 10%;
+    left: 15%;
+}
+
+.table,
+th,
+td {
+    border: 2px solid black;
+    height: 30px;
+    width: 200px;
+}
+
+.link {
+    position: absolute;
+    top: 93%;
+    left: 5%;
+}
+
+.link2 {
+    position: absolute;
+    top: 94%;
+    left: 5%;
+}
+
+.link3 {
+    position: absolute;
+    top: 95%;
+    left: 5%;
+}
+
+.link4 {
+    position: absolute;
+    top: 96%;
+    left: 5%;
+}
